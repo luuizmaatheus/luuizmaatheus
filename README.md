@@ -1,4 +1,4 @@
-  <h1><strong>Me chamo Luiz Matheus, dev em aprendizado constante...</strong></h1>
+  <h1><strong>Olá, me chamo Luiz Matheus, em aprendizado constante...</strong></h1>
 ##
 
 <div align="center">
