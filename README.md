@@ -1,6 +1,6 @@
-Me chamo Luiz Matheus, dev em aprendizado constante...
-
+<strong>Me chamo Luiz Matheus, dev em aprendizado constante...</strong>
 ##
+
 <div align="center">
   <a href="https://github.com/luuizmaatheus">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luuizmaatheus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
